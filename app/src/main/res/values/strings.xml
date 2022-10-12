@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tugas_01</string>
+    <string-array name="pilihjurusan">
+        <item>--Pilih--</item>
+        <item>Informatika</item>
+        <item>Teknik Sipil</item>
+        <item>Teknik Mesin</item>
+        <item>Agribisnis</item>
+        <item>Ekonomi Pembangunan</item>
+        <item>Manajemen</item>
+        <item>Akuntansi</item>
+        <item>Ilmu Hukum</item>
+    </string-array>
+</resources>
